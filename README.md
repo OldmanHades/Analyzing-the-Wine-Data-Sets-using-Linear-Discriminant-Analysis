@@ -1,2 +1,3 @@
 # Analyzing-the-Wine-Data-Sets-using-Linear-Discriminant-Analysis
-Analyzing  Wine Data Sets using Linear Discriminant Analysis a demo.
+This is simply a demo showing an Analysis of wine data from https://archive.ics.uci.edu/ml/datasets/wine+quality
+
